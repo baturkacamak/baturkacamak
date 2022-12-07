@@ -1,6 +1,6 @@
-# Batur Kacamak 😎
+# Hi 👋
 
-Hi 👋, I'm Batur Kacamak and I'm a senior software developer currently living in Norway. I have more than 25 years of experience in web development.
+I'm Batur Kacamak and I'm a senior software developer currently living in Norway. I have more than 25 years of experience in web development.
 
 ## Projects 💻
 
