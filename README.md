@@ -4,9 +4,11 @@ I'm Batur Kacamak and I'm a senior software developer currently living in Norway
 
 ## Projects 💻
 
-- [Project 1] - [Brief description of project]
-- [Project 2] - [Brief description of project]
-- [Project 3] - [Brief description of project]
+Here are some of my public projects on GitHub
+
+- [Unyson Option Builder](https://github.com/baturkacamak/unyson-option-builder) - The Unyson Option Builder is a tool that streamlines the process of creating config.php and post type configuration files within the WordPress and Unyson FW environment.
+- [Tampermonkey/Greasemonkey Userscripts](https://github.com/baturkacamak/user-scripts) - This repo contains a few of my UserScripts that I've build since 2010.
+- [WordPress Game Discount Poster Plugin](https://github.com/baturkacamak/wp-game-discount-poster) - This is a plugin for WordPress that allows users to automatically create posts from data scraped from a remote website, providing an efficient way to incorporate external content into a WordPress site.
 
 ## Skills 📚
 
