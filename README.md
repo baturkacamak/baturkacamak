@@ -18,7 +18,7 @@ Here are some of my public projects on GitHub
 - WordPress API/Plugin/Theme Development (Sage, Bedrock, ACF, Gutenberg Blocks/Widgets/Options) 🌐
 - Javascript (ES6, jQuery, VueJS, React) 💬
 - SQL (MySQL, PostgreSQL, MSSQL) 🗄️
-- CSS (CSS3, PostCSS, SASS, LostGrid, Bootstrap, Bulma, Zurb Foundation) 🎨
+- CSS (CSS3, Tailwind, PostCSS, SASS, LostGrid, Bootstrap, Bulma, Zurb Foundation) 🎨
 - HTML5 🌍
 - WebPack/npm task runners ⚙️
 - Docker containers (3+ years of experience) 🐳
