@@ -7,7 +7,7 @@ I'm Batur Kacamak and I'm a senior software developer currently living in Norway
 Here are some of my public projects on GitHub:
 
 - [YouTube Comment Navigator 95](https://github.com/baturkacamak/youtube-comment-navigator-95) - A Chrome extension designed to enhance the user experience on YouTube by improving the comments section, allowing users to search, filter, and navigate through comments more efficiently.
-- [Turkey-TRNC Holiday Validator](https://github.com/baturkacamak/turkey-trnc-holiday-validator) - Automatically validates Islamic and custom holidays in PHP, Python, C#, Java, and JavaScript, including support for recurring and custom holidays like Saturdays.
+- [Turkey-TRNC Holiday Validator](https://github.com/baturkacamak/turkey-trnc-holiday-validator) - Automatically validates Islamic and custom holidays in PHP, Python, C#, Java, JavaScript and many other languages including support for recurring and custom holidays like Saturdays.
 - [Unyson Option Builder](https://github.com/baturkacamak/unyson-option-builder) - The Unyson Option Builder is a tool that streamlines the process of creating config.php and post type configuration files within the WordPress and Unyson FW environment.
 - [Tampermonkey/Greasemonkey Userscripts](https://github.com/baturkacamak/user-scripts) - This repo contains a few of my UserScripts that I've built since 2010.
 - [Auto Games Discount Creator Plugin](https://github.com/baturkacamak/auto-games-discount-creator) - This is a plugin for WordPress that allows users to automatically create posts from data scraped from a remote website, providing an efficient way to incorporate external content into a WordPress site.
