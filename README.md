@@ -1,32 +1,54 @@
-# Hi 👋
+# Hi there, I'm Batur 👋
 
-I'm Batur Kacamak and I'm a senior software developer currently living in Norway 🇳🇴. I have more than 25 years of experience in web development, specializing in both frontend and backend technologies. Over the years, I have contributed to a variety of projects ranging from small startups to large enterprises.
+**Software Engineer | Automation Architect | AI Tooling Specialist**
 
-## Projects 💻
+I build "Scale-Ready" software focused on automation, productivity, and professional-grade diagnostics. My development philosophy is centered around TDD, loose coupling, and creating modular frameworks that solve complex problems with elegant interfaces.
 
-Here are some of my public projects on GitHub:
+---
 
-- [YouTube Comment Navigator 95](https://github.com/baturkacamak/youtube-comment-navigator-95) - A Chrome extension designed to enhance the user experience on YouTube by improving the comments section, allowing users to search, filter, and navigate through comments more efficiently.
-- [Turkey-TRNC Holiday Validator](https://github.com/baturkacamak/turkey-trnc-holiday-validator) - Automatically validates official and custom holidays in PHP, Python, C#, Java, JavaScript and many other languages including support for recurring and custom holidays like Saturdays.
-- [Unyson Option Builder](https://github.com/baturkacamak/unyson-option-builder) - The Unyson Option Builder is a tool that streamlines the process of creating config.php and post type configuration files within the WordPress and Unyson FW environment.
-- [Tampermonkey/Greasemonkey Userscripts](https://github.com/baturkacamak/user-scripts) - This repo contains a few of my UserScripts that I've built since 2010.
-- [Auto Games Discount Creator Plugin](https://github.com/baturkacamak/auto-games-discount-creator) - This is a plugin for WordPress that allows users to automatically create posts from data scraped from a remote website, providing an efficient way to incorporate external content into a WordPress site.
-- [Restropress Multilanguage Support](https://github.com/baturkacamak/wp-restropress-multilanguage-support/) - The Restropress Multilanguage Support plugin adds multilanguage support to the Restropress plugin by modifying how certain options are stored and retrieved in the WordPress options table in a way that allows for language translation of these options.
+## 🚀 Featured Projects
 
-## Skills 📚
+### 🎥 [CuraFlux](https://github.com/baturkacamak/cura-flux)
+A sophisticated **YouTube Automation Suite** (TUI & Web) for multi-channel management. 
+*   **Tech:** Python, Streamlit, YouTube Data API.
+*   **Features:** Smart sync, SEO auditing, and a growth tool suite (ClickMagnet, SpyGlass).
 
-- PHP (OOP, Symfony, Laravel) 💻
-- WordPress API/Plugin/Theme Development (Sage, Bedrock, ACF, Gutenberg Blocks/Widgets/Options) 🌐
-- Javascript (ES6, jQuery, VueJS, React) 💬
-- SQL (MySQL, PostgreSQL, MSSQL) 🗄️
-- CSS (CSS3, Tailwind, PostCSS, SASS, LostGrid, Bootstrap, Bulma, Zurb Foundation) 🎨
-- HTML5 🌍
-- WebPack/npm task runners ⚙️
-- Docker containers (3+ years of experience) 🐳
+### 🛠️ [cfdiag](https://github.com/baturkacamak/cfdiag)
+A high-performance **Cloudflare Diagnostic CLI** tool for network debugging and connectivity analysis.
+*   **Tech:** Python (Cross-platform binaries).
+*   **Features:** DNS-over-HTTPS, SSL handshake verification, and WAF evasion testing.
 
-## Contact 📧
+### 🧩 [Ekşi Artı](https://github.com/baturkacamak/eksi-arti)
+A feature-rich **Browser Extension** designed to overhaul the Ekşi Sözlük experience with advanced user management and UI enhancements.
+*   **Tech:** TypeScript, Webpack, PostCSS, Tailwind.
+*   **Architecture:** Dependency Injection (DI), Command Pattern, Event Bus.
 
-- Email: hello@batur.info
-- Website: https://batur.info/
+### 🤖 [UserScripts Framework](https://github.com/baturkacamak/userscripts)
+A professional monorepo of **AI & Web Automation** scripts.
+*   **Featured:** Enhancers for Gemini and Meta AI with batch processing and interaction safety layers.
+*   **Core:** A shared framework for Web Components and Automation Engines.
 
-Feel free to contact me if you have any questions or want to collaborate on a project. Thanks for visiting my GitHub page! 🙏
+---
+
+## 🛠️ Tech Stack & Philosophy
+
+*   **Languages:** Python, TypeScript/JavaScript, PHP, Go.
+*   **Frameworks:** React, Laravel, Streamlit, FastAPI.
+*   **DevOps:** Docker, GitHub Actions (CI/CD), DevContainers, Task Runners (Just).
+*   **Philosophy:** 
+    *   **TDD First:** No code without tests.
+    *   **Interfaces First:** Programming to abstractions, not implementations.
+    *   **Zero Drift:** Automated versioning and single source of truth configuration.
+
+---
+
+## 📈 Stats
+
+![Batur's GitHub stats](https://github-readme-stats.vercel.app/api?username=baturkacamak&show_icons=true&theme=transparent)
+
+---
+
+## 📫 Connect with me
+*   **GitHub:** [@baturkacamak](https://github.com/baturkacamak)
+
+*"If you have to do it twice, automate it."*
