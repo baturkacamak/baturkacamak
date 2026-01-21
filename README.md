@@ -1,6 +1,6 @@
 # Hi there, I'm Batur 👋
 
-**Software Engineer | Automation Architect | AI Tooling Specialist**
+**Software Architect | Automation Architect | AI Tooling Specialist**
 
 I build "Scale-Ready" software focused on automation, productivity, and professional-grade diagnostics. My development philosophy is centered around TDD, loose coupling, and creating modular frameworks that solve complex problems with elegant interfaces.
 
